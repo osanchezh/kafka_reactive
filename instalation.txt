@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=KQDTtvZMS9c
+https://github.com/ali-bouali/apache-kafka-with-spring-boot-reactive/tree/main
